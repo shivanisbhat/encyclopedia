@@ -1,0 +1,1 @@
+C is an imperative procedural language, supporting structured programming, lexical variable scope, and recursion, with a static type system. It was created in the 1970s by Dennis Ritchie and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs.
